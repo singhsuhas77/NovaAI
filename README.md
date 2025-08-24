@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4% hugging%20face-Transformers-yellow)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 An advanced conversational AI that intelligently blends a generative language model (**Microsoft DialoGPT-large**) with a retrieval-augmented generation (**RAG**) system to deliver natural, context-aware, and factually grounded conversations.
