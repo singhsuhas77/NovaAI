@@ -24,7 +24,7 @@ An advanced conversational AI that intelligently blends a generative language mo
 - [Contact](#-contact)
 
 ---
-## 📍 About The Project
+## 📍 About The Project 
 
 [cite_start]Traditional chatbots often struggle with disjointed conversations, a lack of factual grounding, and poor user engagement[cite: 557, 558, 571]. [cite_start]They either follow rigid rules or, if purely generative, risk producing nonsensical or "hallucinated" responses[cite: 562, 563].
 
